@@ -10,7 +10,7 @@ I'm using MySQL and PHP7 for programming and Smarty, jQuery and Bootstrap as fra
 
 2.- Import the SQL file from "sql/castillo.sql".
 
-3.- Chmod 0777 for "cookies" and "templates_c" directories.
+3.- Chmod 0777 for "cookies", "images", "logs" and "templates_c" directories or you can run "permisos.php" if you don't wanna do it manually.
 
 4.- Run the script!.
 

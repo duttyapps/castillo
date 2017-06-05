@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4d391694-5192-4aff-9bb7-4894a23dbd32" name="UbuntuWS" url="http://castillo.nowagenciadigital.com">
+        <fileTransfer host="castillo.nowagenciadigital.com" port="22" privateKey="C:\Users\Carlos\Desktop\virtual-key.ppk" rootFolder="/var/www/html" accessType="SFTP" username="ubuntu" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
